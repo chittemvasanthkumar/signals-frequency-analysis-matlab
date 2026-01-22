@@ -15,15 +15,15 @@ This project demonstrates analysis of signals in time and frequency domains usin
 ## Results
 
 ### Time-Domain Signals
-![Sine Wave](plots/sine_wave.png)
-![Square Wave](plots/square_wave.png)
+![Sine Wave](https://github.com/chittemvasanthkumar/signals-frequency-analysis-matlab/blob/main/plots/Sine%20wave.png?raw=true)
+![Square Wave](https://github.com/chittemvasanthkumar/signals-frequency-analysis-matlab/blob/main/plots/Square%20Wave.png?raw=true)
 
 ### Convolution
-![Linear Convolution](plots/linear_convolution.png)
-![Circular Convolution](plots/circular_convolution.png)
+![Linear Convolution](https://github.com/chittemvasanthkumar/signals-frequency-analysis-matlab/blob/main/plots/Linear%20Convolution.png?raw=true)
+![Circular Convolution](https://github.com/chittemvasanthkumar/signals-frequency-analysis-matlab/blob/main/plots/Circular%20convolution.png?raw=true)
 
 ### Frequency Domain Analysis
-![FFT Spectrum](plots/fft_spectrum.png)
+![FFT Spectrum](https://github.com/chittemvasanthkumar/signals-frequency-analysis-matlab/blob/main/plots/Frequency%20spectrum%20using%20FFT.png?raw=true)
 
 ### Sampling Effect
-![Sampling Effect](plots/sampling_effect.png)
+![Sampling Effect](https://github.com/chittemvasanthkumar/signals-frequency-analysis-matlab/blob/main/plots/Sampling%20effect.png?raw=true)
